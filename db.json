@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "neeraj",
+      "avatar": "https://avatars.githubusercontent.com/u/112753461?v=4",
+      "email": "neeraj@gmail.com",
+      "password": "neeraj"
+    }
+  ]
+}
